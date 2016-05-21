@@ -1,16 +1,14 @@
 ---
 layout:     post
-title:      Announcing Version 2.0
-date:       2015-07-11
-summary:    Now, Pixyll is lighter weight and more customizable than before.
-categories: jekyll pixyll
+title:      First Post
+date:       2016-05-21
+summary:    First post on my new GitHubs Pages blog!
+categories: benjamin
 ---
 
-In an effort to make Pixyll easier to customize and more aesthetically pleasing, we've release version `2.0`.
+So here we go again, let's see how this one goes!
 
-Pixyll now features:
+**Authors under consideration:**
 
-* Line anchors in code blocks and new syntax highlighting
-* A customizable variables file
-* Modular, and lighter weight CSS
-* No more `max-width` media queries
+* Benjamin Walter
+* Yanis Varoufakis
