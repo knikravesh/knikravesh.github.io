@@ -1,8 +1,8 @@
 # Site settings
-title:       Pixyll
+title:       Khashayar Nikravesh
 email:       your_email@example.com
 author:      Khashayar Nikravesh
-description: "nikravesh.org"
+description: "Personal blog, covering different topics such as ..."
 baseurl:     ""
 url:         "http://knikravesh.github.io"
 date_format: "%b %-d, %Y"
