@@ -2,7 +2,7 @@
 layout:     post
 title:      First Post
 date:       2016-05-21
-summary:    First post on my new GitHubs Pages blog!
+summary:    First post on my new GitHub Pages blog! 123
 categories: benjamin
 ---
 
