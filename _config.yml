@@ -1,10 +1,10 @@
 # Site settings
 title:       Pixyll
 email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+author:      Khashayar Nikravesh
+description: "nikravesh.org"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "knikravesh.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
@@ -44,7 +44,7 @@ twitter_username:
 skype_username:
 steam_nickname:
 google_plus_id:
-linkedin_username:
+linkedin_username:knikravesh
 angellist_username:
 medium_id:
 bitcoin_url:
