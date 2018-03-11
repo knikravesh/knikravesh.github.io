@@ -1,0 +1,44 @@
+
+  <?xml version="1.0" encoding="UTF-8"?>
+  <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+  <channel>
+    <title>The HotSpot</title>
+    <link></link>
+    <language>en</language>
+    <copyright></copyright>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:author></itunes:author>
+    <itunes:summary></itunes:summary>  
+    <itunes:owner>
+      <itunes:name></itunes:name>
+      <itunes:email></itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://ia801603.us.archive.org/9/items/gamespot_thehotspot/hotspot.jpg?cnt=0" />
+    <itunes:category text="Games &amp; Hobbies"/>
+    
+      <item>
+        <title>001.TheHotSpot-07-20-2005</title>
+        <itunes:author></itunes:author>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:image href="https://ia801603.us.archive.org/9/items/gamespot_thehotspot/hotspot.jpg?cnt=0" />
+        <enclosure url="https://archive.org/download/gamespot_thehotspot/002.TheHotSpot-07-27-2005.mp3" length="" type="audio/mpeg"/>
+        <guid></guid>
+        <pubDate></pubDate>
+        <itunes:duration></itunes:duration>
+      </item>
+    
+      <item>
+        <title>002.TheHotSpot-07-27-2005</title>
+        <itunes:author></itunes:author>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary></itunes:summary>
+        <itunes:image href="https://ia801603.us.archive.org/9/items/gamespot_thehotspot/hotspot.jpg?cnt=0" />
+        <enclosure url="https://archive.org/download/gamespot_thehotspot/001.TheHotSpot-07-20-2005.mp3" length="" type="audio/mpeg"/>
+        <guid></guid>
+        <pubDate></pubDate>
+        <itunes:duration></itunes:duration>
+      </item>
+    
+  </channel>
+  </rss>
